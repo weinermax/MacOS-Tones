@@ -9,6 +9,8 @@ MacOS input method to add tone markings over the correct vowels when typing pīn
 5. open Settings &rarr; Keyboard &rarr; Text Input &rarr; Edit &rarr; + &rarr; Chinese, Simplified &rarr; Tones &rarr; add
 
 ## Usage
+Press fn to switch input method to "Tones"
+
 Type any valid pīnyīn intial final pair followed by tone number
 > hao1
 
